@@ -14,7 +14,7 @@ function clearDisplay() {
 
 // mengoperasikan operator
 function calculate() {
-  display.value = eval(display.value);
+  display.value = "I Love You❤️❤️❤️❤️!!!";
 }
 
 // eval(display.value)
